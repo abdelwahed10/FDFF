@@ -26,9 +26,9 @@
       "Mopub_rectangle": "XXXXX ID Dyalk",
 
 
-      "Unity_id": "XXXXX ID Dyalk",
-      "Unity_banner_Placement": "YOUR_PLACEMENT_ID",
-      "Unity_interstitial_Placement": "YOUR_PLACEMENT_ID",
+      "Unity_id": "4248039",
+      "Unity_banner_Placement": "Banner_Android",
+      "Unity_interstitial_Placement": "Interstitial_Android",
 
 
       "IronSource_App_Key": "XXXXX ID Dyalk",
@@ -40,7 +40,7 @@
       "Startapp_id": "XXXXX ID Dyalk",
 
 
-      "Active_Ad_network": "admob facebook",
+      "Active_Ad_network": "admob facebook unity",
 
       "Ad__1__Interstitial": "facebook",
       "Ad__2__Interstitial": "facebook",
