@@ -2,7 +2,7 @@
   "Json_Data": [
     {
 
-      "HouseAds_package": "com.kiloo.subwaysurf",
+      "HouseAds_package": "com.dev3a.freediamonds",
       "HouseAds_title": "Subway Surfers 35",
       "HouseAds_discripton": "Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog!",
       "HouseAds_image": "https://i.imgur.com/XZHOjBO.jpg",
@@ -59,7 +59,7 @@
       "Show_help_toast"     : "yes",
 
       "ClicksTo_showAd": "2",
-      "Active_PackageName": "com.mygfx.bidguide",
+      "Active_PackageName": "com.dev3a.freediamonds",
       "OnBack_ClicksTo_showAd": "10",
 
       "Show_Wallpapers_Button"     : "yes",
@@ -78,7 +78,7 @@
       "Gdpr_activate": "no",
       "Gdpr_id": "pub-3940256099942544",
 
-      "Cpa_activate": "yes",
+      "Cpa_activate": "no",
       "Cpa_text": "Claim Your Free Diamonds Here",
       "Cpa_image": "https://i.imgur.com/gw4iV9Q.png",
       "Cpa_url": "https://www.google.com/",
