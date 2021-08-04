@@ -43,8 +43,8 @@
       "Active_Ad_network": "admob facebook unity",
 
       "Ad__1__Interstitial": "facebook",
-      "Ad__2__Interstitial": "facebook",
-      "Ad__3__Interstitial": "facebook",
+      "Ad__2__Interstitial": "unity",
+      "Ad__3__Interstitial": "admob",
       "Ad__4__Interstitial": "facebook",
 
 
@@ -68,7 +68,7 @@
       "Ad_format_fi_detail_2"   : "native",
       "Ad_format_fi_detail_3"   : "rectangle",
 	  
-      "Enable_backgroundAds": "no",
+      "Enable_backgroundAds": "yes",
 
       "App_suspended": "no",
       "NewApp_package": "com.facebook.lite",
