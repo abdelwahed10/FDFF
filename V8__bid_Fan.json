@@ -67,6 +67,10 @@
       "Ad_format_fi_detail_1"   : "rectangle",
       "Ad_format_fi_detail_2"   : "native",
       "Ad_format_fi_detail_3"   : "rectangle",
+      "Ad_format_fi_detail_4"   : "rectangle",
+      "Ad_format_fi_detail_5"   : "native",
+      "Ad_format_fi_detail_6"   : "rectangle",
+      "Ad_format_fi_detail_7"   : "rectangle", 
 	  
       "Enable_backgroundAds": "yes",
 
