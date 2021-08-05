@@ -62,7 +62,7 @@
       "Active_PackageName": "com.dev3a.freediamonds",
       "OnBack_ClicksTo_showAd": "10",
 
-      "Show_Wallpapers_Button"     : "yes",
+      "Show_Wallpapers_Button"     : "no",
 
       "Ad_format_fi_detail_1"   : "rectangle",
       "Ad_format_fi_detail_2"   : "native",
